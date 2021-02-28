@@ -2,14 +2,11 @@
 
 
 
-Here are some ideas to get you started:
+I'm Undergraduate,Developer :
 
-- 
-- 🌱 I’m currently learning ... Node JS , Discode JS
-- 👯 I’m looking to collaborate on ... Node Js
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...I'm Nikila, ComputerScience Undergraduate at NSBM.
-- ⚡ Fun fact: ...
--->
+- 😄 I'm Nikila, ComputerScience Undergraduate at NSBM.
+- 🌱 I’m currently learning  Nothing 😎 👽 
+- 👯 I’m looking to collaborate on  Open Source Projects
+- 📫 LinkedIn: https://www.linkedin.com/in/nikila-fernando-47ba811b0/
+
+
