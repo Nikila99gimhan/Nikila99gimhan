@@ -11,5 +11,8 @@ I'm Undergraduate,Developer
 - 📫 LinkedIn: https://www.linkedin.com/in/nikila-fernando-47ba811b0/
 
 <img src ="https://github-readme-stats.vercel.app/api?username=Nikila99gimhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<br>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 
