@@ -18,7 +18,7 @@ I'm Undergraduate,Developer
   <tr>
 <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikila99gimhan&theme=dark" /></th>
 
-<th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikila99gimhan&theme=dark" alt="Nikila" /></th>
+<th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikila99gimhan&theme=dark" alt="Nikila99" /></th>
 
 </table>
 
