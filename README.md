@@ -14,7 +14,12 @@ I'm Undergraduate,Developer
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
+<table style="width:100%" border=0>
+  <tr>
+<th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikila99gimhan&theme=dark" /></th>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikila99gimhan&theme=dark" />
+<th><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikila99gimhan&theme=dark" alt="Nikila" /></th>
+
+</table>
 
 
