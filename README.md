@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning MERN Stack Development.
 - ✍️ I've Experienced in Front-end Web Development , Java , Node Js
 -  💬 Ask me about anything, I am happy to help :smile:
--  📬 How to reach me: [Let's get in touch!][linkedin]
+
 
 
 ### 🛠 &nbsp;Tech Stack
