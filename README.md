@@ -50,7 +50,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-
+<p align="center">
+<a href="https://github.com/Nikila99gimhan">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikila99gimhan&layout=compact&langs_count=8&theme=algolia" />
+</a>
+</p>
 
   
 
@@ -60,7 +64,7 @@
 <p align="center">
 <a href="https://github.com/Nikila99gimhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikila99gimhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikila99gimhan&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
 
