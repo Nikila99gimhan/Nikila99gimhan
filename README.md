@@ -27,8 +27,7 @@
 
 - 😄 I'm Nikila, ComputerScience Undergraduate at NSBM.
 - 👯 I’m looking to collaborate on  Open Source Projects
-- 🌱 I’m currently learning MERN Stack Development.
-- ✍️ I've Experienced in Front-end Web Development , Java , Node Js
+- ✍️ I've Experienced in DevOps , AWS, AZURE ,GCP , Java , Node Js
 -  💬 Ask me about anything, I am happy to help :smile:
 
 
