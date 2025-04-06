@@ -1,67 +1,44 @@
+# Hi, I'm Nikila 👋
 
+Computer Science undergraduate at NSBM with a passion for DevOps and cloud technologies.
 
+## DevOps & Cloud Expertise
 
-<p>
-  <h1 align="center"><b>Hello there, I'm Nikila 👋</b></h1>
-</p>
+```
+▮▮▮▮▮▮▮▮▮▮ AWS
+▮▮▮▮▮▮▮▮   Azure
+▮▮▮▮▮▮▮    GCP
+▮▮▮▮▮▮▮▮▮  CI/CD Pipelines
+▮▮▮▮▮▮▮▮▮  Docker
+▮▮▮▮▮▮▮▮   Kubernetes
+▮▮▮▮▮▮▮    Terraform
+▮▮▮▮▮▮▮▮   Jenkins
+```
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Nikila99gimhan" />
-</p>
+## Tech Stack
 
-<p align="center">
-<br>
-<a href="https://www.facebook.com/nikila.gimhan"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/nikila_gimhan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/nikila-fernando-47ba811b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
+## Currently Working On
 
-<br>
+- Infrastructure as Code (IaC) automation
+- Containerization and orchestration solutions
+- CI/CD pipeline optimization
+- Cloud cost management strategies
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+## Open to Collaborate
 
+I'm looking to contribute to open source projects focused on DevOps tools and cloud infrastructure.
 
-### I'm Undergraduate,Developer 
-
-- 😄 I'm Nikila, ComputerScience Undergraduate at NSBM.
-- 👯 I’m looking to collaborate on  Open Source Projects
-- ✍️ I've Experienced in DevOps , AWS, AZURE ,GCP , Java , Node Js
--  💬 Ask me about anything, I am happy to help :smile:
-
-
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-
-
- 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Nikila99gimhan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikila99gimhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikila99gimhan&layout=compact&langs_count=8&theme=algolia"/>
-  
-</a>
-</p>
-
-
-
-
+![Nikila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikila99gimhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues)
