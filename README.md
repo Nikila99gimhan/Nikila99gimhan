@@ -1,6 +1,6 @@
 # Hi, I'm Nikila 👋
 
-Computer Science undergraduate at NSBM with a passion for DevOps and cloud technologies.
+Computer Science Graduate | Cloud Native Geek | Community Organizer|
 
 ## DevOps & Cloud Expertise
 
